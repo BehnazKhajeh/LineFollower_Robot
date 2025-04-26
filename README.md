@@ -1,4 +1,4 @@
-**code for move with detecting Black lines**
+**code for move by detecting Black lines**
 
 🚀 Project Overview
 This project brings the world of robotics to life with a simple yet fascinating Line Follower Robot. Utilizing **Arduino Uno** (or similar older models), **IR sensors**, and **DC motors**, this robot is capable of detecting and following a line on the floor. A great project for exploring the basics of robotics, sensor integration, and motor control.
