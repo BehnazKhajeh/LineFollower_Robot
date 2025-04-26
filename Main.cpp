@@ -1,5 +1,5 @@
 #include <Arduino.h>
-#include "IRSensor.h"
+#include "Sensor.h" 
 #include "Motor.h"
 #include "LineFollowerRobot.h"
 
