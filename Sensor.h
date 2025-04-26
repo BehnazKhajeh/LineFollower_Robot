@@ -1,10 +1,10 @@
-#ifndef IRSENSOR_H
-#define IRSENSOR_H
+#ifndef SENSOR_H    
+#define SENSOR_H    
 
-class IRSensor {
+class Sensor {   
 public:
-    IRSensor(int pin);
-    bool isLineDetected();
+    Sensor(int pin);    
+    bool isLineDetected();   
 private:
     int sensorPin;
 };
